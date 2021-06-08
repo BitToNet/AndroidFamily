@@ -3,7 +3,7 @@
 从今天开始，慢慢地把自己学习到的知识一点点总结起来  
 定期更新，争取每周两篇
 <p align="center">
-    <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
+    <a href="https://github.com/BitToNet/AndroidFamily" target="_blank">
         <img src="https://github.com/BitToNet/AndroidFamily/blob/main/head.jpeg" width="20%"/>
     </a>
 </p>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
+    <a href="https://github.com/BitToNet/AndroidFamily" target="_blank">
         <img src="https://github.com/BitToNet/AndroidFamily/blob/main/%E7%8E%B2%E7%8F%91.png" width=""/>
     </a>
 </p>

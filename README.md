@@ -19,9 +19,15 @@
     </a>
 </p>
 
-# 最近添加（6.11）
-   - [从0开始建立一个互联网（物理层-数据链路层-网络层）](https://juejin.cn/post/6971735127072342023)
-   - [设计模式-代理Proxy ](https://juejin.cn/post/6972425556730052615)
+# 最近添加（6.23）
+- [最近文章都在掘金主页](https://juejin.cn/user/4476867078523896)  
+    - [Jetpack--Lifecycle使用介绍及源码分析 ](https://juejin.cn/post/6976910894135509028)
+    - [Https是什么鬼啊？（Https加密过程全解析）](https://juejin.cn/post/6976905072584491021)
+    - [网络为什么要分层呀？（TCP/IP协议族）](https://juejin.cn/post/6976900335348482078)
+    - [Android或前端开发中--不得不说的登录、授权（Cookie、Authorization）](https://juejin.cn/post/6976141229322928135)
+    - [编码、加密](https://juejin.cn/post/6975040402235588639)
+    - [http的原理和工作机制](https://juejin.cn/post/6974699720966930445)
+    - [retrofit的设计原理（找一找第一次读源码的感觉）](https://juejin.cn/post/6972483109245681678)
 
 # 目录(善用Ctrl+F)
 
@@ -50,20 +56,22 @@
 
 - 网络编程
   - OSI五层模型
+    - [网络为什么要分层呀？（TCP/IP协议族）](https://juejin.cn/post/6976900335348482078)
     - [OSI五层模型（开放式系统互联通信参考模型）](https://juejin.cn/post/6971269101574438920)
     - [从0开始建立一个互联网（物理层-数据链路层-网络层）](https://juejin.cn/post/6971735127072342023)
+    
   - tcp连接过程
     - [Tcp连接（三次握手）、传输、断开（四次挥手）流程验证](https://juejin.cn/post/6969041036811173918)
-
+  - Http和Https
+      - [Https是什么鬼啊？（Https加密过程全解析）](https://juejin.cn/post/6976905072584491021)
+    - [http的原理和工作机制](https://juejin.cn/post/6974699720966930445)
+- 编码和加密
+    - [编码、加密](https://juejin.cn/post/6975040402235588639)
 - Android
-  - http工作原理
-    - [android基础复习笔记——1.http的原理和工作机制](https://blog.csdn.net/qq_36333289/article/details/108799562?spm=1001.2014.3001.5501)
-  - 编码和加密
-    - [android基础复习笔记——2.编码、加密](https://blog.csdn.net/qq_36333289/article/details/109049480)
-  - 网络基础
-    - [android基础复习笔记——3.登录授权、TCP/IP、HTTPS原理](https://blog.csdn.net/qq_36333289/article/details/109206227?spm=1001.2014.3001.5501)
+  - 登录授权
+    - [Android或前端开发中--不得不说的登录、授权（Cookie、Authorization）](https://juejin.cn/post/6976141229322928135)
   - retrofit
-    - [android基础复习笔记——4.retrofit的使用、原理、源码解析，及rxjava的接入（模拟第一次读源码的场景）](https://blog.csdn.net/qq_36333289/article/details/109535468?spm=1001.2014.3001.5501)
+    - [retrofit的设计原理（找一找第一次读源码的感觉）](https://juejin.cn/post/6972483109245681678)
   - OKHttp
     - [android基础复习笔记——5.从OkHttp的源码来看HTTP](https://blog.csdn.net/qq_36333289/article/details/110376561?spm=1001.2014.3001.5501)
   - handler
@@ -82,6 +90,7 @@
   - 系统服务的调度作用
   - 四大组件本质
   - Jetpack
+      - [Jetpack--Lifecycle使用介绍及源码分析 ](https://juejin.cn/post/6976910894135509028)
   - 扩展
     - Kotlin
     - Flutter
